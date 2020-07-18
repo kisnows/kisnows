@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-怕什么真理无穷，进一步有进一步的好,[点击进步](https://blog.kisnows.com/)
+怕什么真理无穷，进一步有进一步的好，[点击进步](https://blog.kisnows.com/)
 
 Don't be afraid of the endless truth, the further benefits are always there, [click to go further](https://blog.kisnows.com/).
 
