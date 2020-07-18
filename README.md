@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 怕什么真理无穷，进一步有进一步的好,[点击进步](https://blog.kisnows.com/)
 
 Don't be afraid of the endless truth, the further benefits are always there, [click to go further](https://blog.kisnows.com/).
+
+![No.](https://github-readme-stats.vercel.app/api?username=kisnows&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
